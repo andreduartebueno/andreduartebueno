@@ -1,4 +1,4 @@
-## Git_Site - Professor Andre Duarte Bueno's  - LENEP/CCT/UENF 
+## Git_Site - Professor Andre Duarte Bueno  - LENEP/CCT/UENF 
 * Professor at the state university of northern fluminense - uenf
 *   🌍  I'm based in Macaé/RJ - [LENEP/CCT/UENF](https://www.google.com.br/maps/place/LENEP+-+Laborat%C3%B3rio+de+Engenharia+e+Explora%C3%A7%C3%A3o+de+Petr%C3%B3leo/@-22.4054915,-41.862721,17z/data=!3m1!4b1!4m6!3m5!1s0x96346cd647807f:0x9b433b7643f1a958!8m2!3d-22.4054965!4d-41.8605323!16s%2Fg%2F11b7rxg4vv)
 *   🖥️  See my portfolio at [https://sites.google.com/view/professorandreduartebueno/](http://sites.google.com/view/professorandreduartebueno/cursos-em-v%C3%ADdeo)
