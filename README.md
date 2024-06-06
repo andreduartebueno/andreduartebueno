@@ -4,7 +4,7 @@
 *   🖥️  See my portfolio at [https://sites.google.com/view/professorandreduartebueno/](http://sites.google.com/view/professorandreduartebueno/cursos-em-v%C3%ADdeo)
 *   ✉️  You can contact me at [andreduartebueno@gmail.com](mailto:andreduartebueno@gmail.com) or at [bueno@lenep.uenf.br](mailto:bueno@lenep.uenf.br)
 *   🚀  I'm currently working on [teaching projects](https://sites.google.com/view/professorandreduartebueno/ensino),  [research projects](http://https://github.com/ldsc) and [extension projects](https://sites.google.com/view/professorandreduartebueno/extens%C3%A3o)
-*   🧠  I'm learning news of [C++23](https://isocpp.org/) and [engineering projects](https://sites.google.com/view/professorandreduartebueno/ensino/introdu%C3%A7%C3%A3o-ao-projeto-de-engenharia).
+*   🧠  I'm learning news of [C++26](https://isocpp.org/) and [engineering projects](https://sites.google.com/view/professorandreduartebueno/ensino/introdu%C3%A7%C3%A3o-ao-projeto-de-engenharia).
 *   🤝  I'm open to collaborating teaching and research projects in petroleum engineering, including image analysis and artificial intelligence.
 *   ⚡  It's no secret that I love walking with my dog [Molly](https://sites.google.com/view/aplicativo-atcs/a-atcs/dicas-da-molly) and [playing tennis](https://sites.google.com/view/aplicativo-atcs).
 
